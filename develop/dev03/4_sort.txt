@@ -1,0 +1,8 @@
+-rw-rw-r--  5 nsa nsa   26 Dec 20 07:30 1_sort.txt
+-rw-rw-r--  7 nsa nsa   26 Dec 20 07:46 2_sort.txt
+-rw-rw-r--  1 nsa nsa   80 Dec 20 07:55 3_sort.txt
+-rw-rw-r--  4 nsa nsa  445 Dec 17 11:28 4_sort.txt
+-rw-rw-r--  6 nsa nsa 8046 Dec 17 11:27 info.txt
+-rw-rw-r--  3 nsa nsa 6073 Dec 20 08:23 task.go
+-rw-rw-r--  8 nsa nsa 3718 Dec 20 08:24 task_test.go
+drwxrwxr-x  2 nsa nsa 4096 Dec 20 08:00 testing
